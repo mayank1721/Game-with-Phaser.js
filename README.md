@@ -1,4 +1,4 @@
-INSTRUCTIONS(setting up a local web server)
+INSTRUCTIONS (setting up a local web server)
 
 Because of how the Phaser.JS library handles files, you need to be running a web server locally to view a working copy of this project. You can't just open the index.html file in your web browser as you might a basic HTML page. There are several simple ways to get a web server up and running on your computer:
 
